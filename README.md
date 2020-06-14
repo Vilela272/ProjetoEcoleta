@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![GitHub language count](https://img.shields.io/github/languages/count/Vilela272/ProjetoEcoleta?style=plastic) ![GitHub top language](https://img.shields.io/github/languages/top/Vilela272/ProjetoEcoleta?style=plastic) ![GitHub repo size](https://img.shields.io/github/contributors/Vilela272/ProjetoEcoleta?style=plastic) ![GitHub repo size](https://img.shields.io/scrutinizer/quality/g/Vilela272/ProjetoEcoleta/master?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/Vilela272/ProjetoEcoleta?style=plastic) ![GitHub top language](https://img.shields.io/github/languages/top/Vilela272/ProjetoEcoleta?style=plastic) ![GitHub repo size](https://img.shields.io/github/contributors/Vilela272/ProjetoEcoleta?style=plastic)
 
 </div>
 
